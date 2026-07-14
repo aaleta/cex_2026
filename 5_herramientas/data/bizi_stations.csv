@@ -1,0 +1,276 @@
+station_id,name,lat,lon,capacity,address
+2,1-Palacio Congresos,41.669943,-0.9036980000000001,19,Avda. Ranillas - Edificio 5
+3,81-Tauromaquia,41.6826743,-0.8711369,19,Plza Tauromaquia - Avda. Acad. Gral. Militar
+4,2-Pabellón Aragón,41.67128,-0.8983719999999998,19,Avda. Ranillas - Avda. José Atares
+5,70-Picasso: Zambrano,41.6728667,-0.8888277,19,Avenida Pablo Ruiz Picasso - C/Maria Zambrano
+6,60-Bielsa: Cnos. Norte,41.6624112,-0.8699939,19,C/ Bielsa - C/ Caminos del Norte
+7,83-Majas de Goya,41.686629,-0.8743311,19,Avda. Majas de Goya - Eroski
+8,31-Gargallo: Parq. Aljafería,41.6601158,-0.8965537999999998,19,"Avda. Pablo Gargallo, 44 - C/ Ignacio Menaya"
+9,34-Coso Bajo,41.6516589,-0.873574,29,C/del Coso - C/San Lorenzo
+10,77-Allende: Picasso,41.673575,-0.877302,19,Avda. Salva Allende -Avda. Pablo Ruiz Picasso
+11,80-Academia Gral: Allende,41.677938,-0.871317,19,Av. Acad. Gral. Militar -Av. Salvador Allende
+12,23-Ribera. Azud,41.653082,-0.857937,19,Paseo de La Ribera - C/Nobleza Baturra
+13,57-Sobrarbe: Ribera,41.658801,-0.874233,19,C/ Sobrarbe
+14,56-Oriente: Betoré,41.655486,-0.858905,19,C/Balbino Orensanz - C/ Carmelo Betore Bergua
+15,95-Longares: Fuendejalón,41.658993,-0.865323,19,Paseo Longares - C/ Fuendejalón
+16,55-M. Cadena: M. Asso,41.658793,-0.861699,19,Avda. Marqués de la Cadena - C/ Miguel Asso
+17,59-Plaza Mozart,41.66174,-0.865608,19,Plaza Mozart
+18,76-S. Juan Peña: Juslibol,41.670177,-0.871266,19,Avda. San Juan de la Peña - C/ Juslibol
+19,78-Jardines Concordia,41.6739819,-0.8713451,19,Avda. San Juan de la Peña - C/ Somport
+20,75-Salvador Allende,41.669437,-0.876515,19,Avda. Salvador Allende - C/ Rubio de Francia
+21,6-Ribera: Pte. del Pilar,41.656511,-0.869656,29,Paseo de la Ribera - Puente del Pilar
+22,68-Zambrano: Saura,41.675113,-0.889097,18,Avda. Mª Zambrano - C/ Carlos Saura
+23,14-Delicias Salidas,41.65839527,-0.90875154,27,Estación Intermodal Delicias (Salidas)
+24,13-Avda. Francia,41.662104,-0.9072719999999999,19,C/ Francia - Pabellón Puente
+25,73-Avellaneda: Xirgu,41.678096,-0.89092,19,C/ Margarita Xirgu-Av. G. Gómez de Avellaneda
+26,67-Campoamor: Grancasa,41.668686,-0.890046,31,Av. G. Gómez de Avellaneda-C/ Clara Campoamor
+27,94-Kasan,41.664266,-0.883638,19,C/ Valero Julián Ripol Urbano
+28,66-Neruda: Celaya,41.670292,-0.886037,19,C/ Pablo Neruda - C/ Averroes
+29,5-Macanaz,41.660302,-0.880759,19,Paseo de la Ribera - Puente de Santiago
+30,65-Intercambiador Zambrano,41.666399,-0.886919,18,Avda. G. Gómez de Avellaneda - Intercambiador
+31,4-Atarés: Pte. Almozara,41.662182,-0.888459,19,Avda. José Atares - Puente de La Almozara
+32,3-Actur: Voluntariado,41.666982,-0.8944463,19,Pasarela del Voluntariado - Avda. Ranillas
+33,7-Parque Tenerías,41.65271,-0.866106,23,Pº Echegaray y Caballero -Pasarela del Huerva
+34,8-Puerta del Sol,41.654185,-0.870531,23,Pº Echegaray y Caballero - Puente del Pilar
+35,9-Echegaray. Pte. Piedra,41.655936,-0.875309,23,Pº Echegaray y Caballero - Puente de Piedra
+36,10-Echegaray. Pte. Santiago,41.657906,-0.881161,23,Pº Echegaray y Caballero - Puente de Santiago
+37,11-Pza. Europa,41.659349,-0.891459,23,Pº Echegaray y Caballero-Pte. de La Almozara
+38,12-Almozara: Voluntariado,41.66349,-0.896488,19,Pasarela del Voluntariado - Avda. Almozara
+39,30-Pta. Sancho: Gargallo,41.66151,-0.901678,19,Avda. Pablo Gargallo - Avda. Puerta Sancho
+40,87-Aljafería: M.ª Agustín,41.657134,-0.89367,19,Pº Mª Agustí­n - C/ de la Aljaferí­a
+41,89-Echegaray: Postigo Ebro,41.658302,-0.88581,23,Pº Echegaray y Caballero - C/Postigo del Ebro
+42,18-Beltrán Martínez,41.65149,-0.869724,23,C/Del Alto Aragón - C/Asalto
+43,41-Pza. Schweitzer,41.642396,-0.882242,23,Plaza Schweitzer
+44,104-Madre Rafols: DGA,41.653588,-0.889483,19,C/ Madre Rafols - Esquina D.G.A.
+45,118-J. Carlos I: Aragonia,41.6412723,-0.909119,19,Avda. Juan Carlos I - C/Manuel Coyne Buil
+46,29-Palacio Aljafería,41.655664,-0.8966970000000001,19,Avda. Madrid - Aljaferí­a
+47,42-Fleta. Uncastillo,41.639739,-0.881066,23,Avda. Tenor Fleta - C/ Uncastillo
+48,47-S. Francisco: Universidad,41.6416311,-0.8960573,23,Plaza San Francisco - Universidad
+49,61-Peña Oroel,41.663674,-0.873533,19,C/Peña Oroel - C/Sierra de Guara
+50,15-Portillo,41.652924811911916,-0.8978479097369041,19,Estación de Cercaní­as El Portillo
+51,54-Calanda: Madrid,41.653605,-0.904574,20,Avda. Madrid - Pº Calanda
+52,126-Sanz Ibáñez: Rioja,41.652733,-0.9108419999999999,19,C/ Julián Sanz Ibáñez - C/ Rioja
+53,129-Graus: Unceta,41.652594,-0.902283,19,C/ Graus - C/ Unceta
+54,51-Plaza Roma,41.649765,-0.898608,19,Plaza Roma
+55,102-Teatro Romano,41.651221,-0.877795,23,C/ Pedro Joaquí­n Soler - Coso
+56,119-Sainz Varanda: J. Carlos I,41.6386772,-0.9080411000000002,18,Avda. Juan Carlos I -C/Ramón Sainz de Varanda
+57,125-Parq. Delicias: Univérsitas,41.649,-0.9091960000000001,19,Via Univérsitas - C/ Hermanos Gambra
+58,16-Pza. España,41.651923,-0.880427,31,Plaza de España
+59,17-Constitución: Pza. Aragón,41.647779,-0.884015,27,Pº Constitución - Plaza Aragón
+60,19-Asalto. Servet,41.648966,-0.875635,23,C/ Asalto - C/ Miguel Servet
+61,21-Aranda: C. Augusto,41.654293,-0.884193,23,Avda. César Augusto - Avda. Conde Aranda
+62,24-S. Pedro Nolasco,41.652627,-0.877228,23,Plaza San Pedro Nolasco
+63,25-Plaza Los Sitios,41.648395,-0.879992,23,Plaza de los Sitios
+64,26-Pta. del Carmen,41.649689,-0.887123,23,Pº Pamplona - Puerta del Carmen
+65,27-CP Joaquín Costa,41.651915,-0.891453,23,Pº Mª Agustí­n - Colegio Joaquí­n Costa
+66,36-Silvestre Pérez,41.648425,-0.866854,19,C/ Silvestre Perez - C/ Villa de Chiprana
+67,37-Ballesteros,41.644969,-0.868574,19,C/ Florentino Ballesteros - C/ Matadero
+68,38-Roger Tur,41.647079,-0.872271,19,Cno. de las Torres - C/ Roger de Tur
+69,39-Alierta: Cno. Torres,41.645317,-0.87755,23,Cno. de las Torres - Avda. Cesáreo Alierta
+70,40-Alierta: Burriel,41.642188,-0.875117,19,Avda. Cesareo Alierta - C/ Felix Burriel
+71,43-Goya: Domenech,41.642971,-0.887987,23,Avda. Goya - C/ Arzobispo Domenech
+72,44-Sagasta: Cno. Torres,41.640344,-0.886515,31,Pº Sagasta - Cno. de las Torres
+73,45-Gran Vía. Paraninfo,41.646496,-0.887639,27,C/ Gran Ví­a - Facultad Económicas
+74,46-Goya. Gracián,41.644436,-0.892691,18,C/ Baltasar Gracián con av. Goya
+75,49-Gta. Zagríes,41.648063,-0.893848,19,Avda. Goya - Avda. Anselmo Clavé
+76,50-S. J. Bosco: Universidad,41.644578,-0.900271,23,C/ Menéndez Pelayo con av. San Juan Bosco
+77,52-Villahermosa: F. y López,41.648109,-0.9022949999999998,19,Avda. Duquesa Villahermosa -C/ Franco y López
+78,90-Bretón: Claret,41.644273,-0.89511,19,C/ Bretón - C/ San Antonio Mª Claret
+79,91-S. Francisco: Fdo. Católico,41.64101,-0.894409,23,PLAZA SAN FRANCISCO - Pº FERNANDO EL CATOLICO
+80,92-S. Juan Cruz: Lasala,41.640743,-0.890111,19,C/ San Juan de la Cruz - C/ Manuel Lasala
+81,93-Matadero,41.644978,-0.871141,19,C/Monasterio de Samos -C/Monasterio de Poblet
+82,97-Constitución: Escar,41.647542,-0.880268,23,Pº Constitución - C/ Mefisto
+83,98-Gta. Sasera,41.646136,-0.885267,23,Glorieta Sasera - Pº Damas
+84,99-Sta. Engracia,41.64913,-0.88238,23,"C/ Joaquín Costa, 1"
+85,100-Pza. del Carmen,41.650929,-0.884635,18,Plaza Nuestra Señora del Carmen
+86,101-Dr. Iranzo: Benlliure,41.65002337,-0.8634514,19,C/ Doctor Iranzo -  C/ Escultor Benlliure
+87,103-Lacarra Miguel: S. Vte. Mártir,41.644689,-0.881628,23,C/ Lacarra de Miguel - C/ San Vicente Martir
+88,106-Arz. Morcillo: Soria,41.637553,-0.890649,19,C/Arzobispo Morcillo-C/ Fernando de Antequera
+89,107-Lasala: Vives,41.63801,-0.8953549999999999,18,C/ Luis Vives - C/ Manuel Lasala
+90,108-Emperador Carlos V,41.637861,-0.898437,18,Plaza Emperador Carlos V
+91,109-H. Miguel Servet,41.63475,-0.901612,27,Pº Isabel la Católica - C/ Gonzalo Calamita
+92,110-Ciudad de Toulouse,41.633077,-0.904859,19,Pº Isabel la Católica - Ví­a Hispanidad
+93,111-Hispanidad: Condes Aragón,41.634494,-0.90899,19,C/ Condes de Aragón - Ví­a Hispanidad
+94,112-Hispanidad: Conservatorio,41.636419,-0.9122950000000001,19,Ví­a Hispanidad - Avda. Sainz de Varanda
+95,113-Hispanidad: Gómez Laguna,41.640713,-0.914179,19,Vía Hispanidad - Avda. Gómez Laguna
+96,114-Hispanidad: Villahermosa,41.643995,-0.9157210000000001,19,Ví­a Hispanidad - Avda. Duquesa Villahermosa
+97,115-Hispanidad: Atlántico,41.646698,-0.9173909999999998,19,Ví­a Hispanidad - C/ Océano Atlántico
+98,121-Auditorio,41.639147,-0.901846,19,C/ Eduardo Ibarra - C/ Violante de Hungrí­a
+99,122-Gmez. Laguna: Univérsitas,41.642776,-0.9073540000000001,19,Avda. Gómez Laguna nº 6
+100,123-Hosp. Clínico,41.643745,-0.9043680000000001,18,Avda. San Juan Bosco - C/ La Milagrosa
+101,130-Corona Aragón: Arenal,41.643798,-0.897435,19,C/ Corona de Aragon - C/Concepcion Arenal
+102,53-Juan XXIII,41.654966,-0.8995979999999999,19,Avda. Madrid - Avda. Navarra
+103,62-Cnos. Norte: M. Cadena,41.664932,-0.868641,19,C/ Caminos del Norte - C/Martín del Río
+104,71-Legaz Lacambra: Paz,41.676112,-0.892857,19,C/ Luis Legaz Lacambra - C/ Octavio Paz
+105,74-Picasso: Aleixandre,41.673046,-0.883893,18,Av. Pablo Ruiz Picasso- C/Vicente Aleixandre
+106,116-Parq.Delicias: Ciudadela,41.64836,-0.9134370000000002,19,C/ Ciudadela - C/ Andrés Vicente
+107,124-Univérsitas: Villahermosa,41.646418,-0.907961,19,Via Universitas - Avda. Duquesa Villahermosa
+108,128-Calanda: Bolivia,41.650524,-0.9033929999999999,19,C/ Bolivia - Pº Calanda
+109,69-Picasso: Zamora Sarrate,41.67226,-0.894623,19,"Av. Pablo Ruiz Picasso, 57"
+111,28-Pignatelli: Pza. Toros,41.655047,-0.891646,15,"C/ Ramón Pignatelli, 122- Plaza de Toros"
+112,32-Hospital Provincial,41.65185,-0.886522,23,32-C/Santiago Ramón y Cajal. Frente Hosp Provincial
+113,33-Echegaray: El Pilar,41.656943,-0.877512,19,33-PºEchegaray Caballero-C/Milagro de Calanda
+114,262- Pza. Sto. Domingo,41.657826,-0.888967,20,262- Plaza Santo Domingo - C/Predicadores
+115,72-Zambrano: Iglesias,41.67737,-0.889064,19,72-Avda. Mª Zambrano - C/ Pablo Iglesias
+116,84-Parq. Tapices Goya,41.686629,-0.877435,19,84-Avda. Majas de Goya - C/ La Fragua
+117,85-Gargallo: Jardines Atenas,41.66214,-0.90404,19,85-C/ Pablo Gargallo - C/ Jardines de Atenas
+118,86-Almozara: Batalla Arapiles,41.663295,-0.898906,19,86-Avda. Almozara - CDM Almozara
+119,88-M.ª Callas: Casanova,41.65627505,-0.9040083,19,88-C/María Callas - C/Fray José Casanova
+120,235-Ferreiro: Comín Ros,41.65378,-0.914978,19,"235-C/ Celso Emilio Ferreiro, 13"
+121,237-Navarra: C.C. Augusta,41.658921,-0.919732,19,237-Avda.Navarra. Frente gasolinera Carrefour
+122,275-Biarritz: Sender,41.656502,-0.919517,19,275-C/Biarritz - C/ Ramón J.Sender
+123,167-Cuéllar: Vista Alegre,41.638194,-0.884302,19,"167-Pº Cuellar, 23-27"
+124,168-Pza. Uno de Mayo,41.636317,-0.878239,19,168-Plaza 1 de Mayo
+125,170-Tetuán: Neptuno,41.630478,-0.878986,19,170-C/Tetuán - C/ Neptuno
+126,269-Hosp. Infantil,41.636264,-0.8996120000000001,27,"269-PºIsabel Católica,557.Hosp. Miguel Servet"
+127,158- Alierta: Dos de Enero,41.639097,-0.871213,19,158- Alierta: Dos de Enero
+128,161- Alierta: Cno. Junco,41.635758,-0.864621,19,161- Alierta: Cno. Junco
+129,166- Nápoles: Zaragoza La Vieja,41.634651,-0.875077,19,166- Nápoles: Zaragoza La Vieja
+130,198- Fleta: Rosellón,41.635714,-0.8736,19,198- Fleta: Rosellón
+131,48- H. Cortés: Pza. Arregui,41.647862,-0.890379,19,48- H. Cortés: Pza. Arregui
+132,58- Valle Zuriza: Cataluña,41.660356,-0.869621,23,58- Valle Zuriza: Cataluña
+133,79- Allende: Rotellar,41.675753,-0.876424,15,79- Allende: Rotellar
+134,164- Rosales: Illueca,41.639471,-0.876017,19,164- Rosales: Illueca
+135,133- Campus. Ada Byron,41.682917,-0.887911,31,133- Campus. Ada Byron
+136,160 - Jardines Montemolín,41.638652,-0.86496,19,160 - Jardines Montemolín
+137,191- Pza. Aragón,41.648588,-0.88532,23,191- Pza. Aragón
+138,268- Gran Vía: Huerva,41.645324,-0.889986,19,268- Gran Vía: Huerva
+139,132-Área Autocaravanas,41.683373,-0.890356,27,132-Área Autocaravanas
+140,134-García Abril: D’Amicis,41.678199,-0.885899,19,134-García Abril: D’Amicis
+141,135- Segundo Chomón,41.676131,-0.884061,19,135- Segundo Chomón
+142,261-Campus. Betancourt,41.682857,-0.883694,19,261-Campus. Betancourt
+143,64-Parq. Poetas: León Felipe,41.667372,-0.882722,19,64-Parq. Poetas: León Felipe
+144,82-A. Gral. Militar: Majas Goya,41.686588,-0.871204,15,82-A. Gral. Militar: Majas Goya
+145,131-Atarés: Siglo XXI,41.675363,-0.898507,19,131-Atarés: Siglo XXI
+146,137-Pza. La Poesía,41.687985,-0.875455,19,137-Pza. La Poesía
+147,234- Parq. Aljafería: Reino,41.659016,-0.8980610000000001,18,234- Parq. Aljafería: Reino
+148,236-Navarra: H. Rguez. Miñón,41.657957,-0.9154099999999998,19,236-Navarra: H. Rguez. Miñón
+149,238-Tomás y Valiente,41.654731,-0.916843,19,238-Tomás y Valiente
+150,276-Acuario Zaragoza,41.668759,-0.899502,19,276-Acuario Zaragoza
+151,117-J. Carlos I: Villahermosa,41.64492,-0.9112600000000001,19,117-J. Carlos I: Villahermosa
+152,136-Facultad Medicina,41.641527,-0.9035300000000002,19,136-Facultad Medicina
+153,239-Parq. Sedetania: Brea,41.651898,-0.918943,19,239-Parq. Sedetania: Brea
+154,255-Avda. Madrid: Enlaces,41.650383,-0.917365,19,255-Avda. Madrid: Enlaces
+155,120-Asín y Palacios: El Grande,41.636994,-0.9048770000000002,19,120-Asín y Palacios: El Grande
+156,169-Vicente Basanta: Melilla,41.632192,-0.876026,19,169-Vicente Basanta: Melilla
+157,171-Parq. Pignatelli,41.635875,-0.885567,19,171-Parq. Pignatelli
+158,172-Ruiseñores: Cejador Frauca,41.635606,-0.890417,20,172-Ruiseñores: Cejador Frauca
+159,159-Parq. La Granja: Galiay,41.636641,-0.870594,15,159-Parq. La Granja: Galiay
+160,163-La Granja: Est. Miraflores,41.634189,-0.869504,19,163-La Granja: Est. Miraflores
+161,165-Pza. Mayor,41.637881,-0.874094,19,165-Pza. Mayor
+162,267-Príncipe Felipe,41.636643,-0.867197,19,267-Príncipe Felipe
+163,155-Yolanda Bar: M.ª Aragón,41.640792,-0.86343,19,155-Yolanda Bar: M.ª Aragón
+164,157-Pza. F. Aguayo,41.641327,-0.869006,19,157-Pza. F. Aguayo
+165,162-Veterinaria,41.634088,-0.861119,23,162-Veterinaria
+166,266-Pza. Utrillas,41.640308,-0.866778,19,266-Pza. Utrillas
+167,153- Torre Ramona: Higuera,41.642869,-0.860655,19,153- Torre Ramona: Higuera
+168,154-Torre Ramona: Dr. Iranzo,41.643979,-0.864241,19,154-Torre Ramona: Dr. Iranzo
+169,156-F. Luis Urbano: Caspe,41.645089,-0.859165,19,156-F. Luis Urbano: Caspe
+170,265- Batalla Pavía: Caspe,41.645497,-0.866341,19,265- Batalla Pavía: Caspe
+171,35-Comuneros: Minguijón,41.650676,-0.86082,19,35-Comuneros: Minguijón
+172,151-Minguijón: Rebolledo,41.646057,-0.861867,19,151-Minguijón: Rebolledo
+173,152-La Amistad: F. Luis Urbano,41.646925,-0.858658,19,152-La Amistad: F. Luis Urbano
+174,271-Cosuenda: Longares,41.656199,-0.863253,19,271-Cosuenda: Longares
+175,138-Rda. Hispanidad: Cataluña,41.66422,-0.857871,19,138-Rda. Hispanidad: Cataluña
+176,148-Felisa Galé: Oto,41.662826,-0.86082,19,148-Felisa Galé: Oto
+177,149-Felisa Galé: Orensanz,41.660473,-0.859036,25,149-Felisa Galé: Orensanz
+178,264-Burriel: Zapater,41.65678,-0.85523,19,264-Burriel: Zapater
+179,63-Broto: Guara,41.666399,-0.87351,19,63-Broto: Guara
+180,139-Cataluña: Sta. Fe,41.665789,-0.856074,19,139-Cataluña: Sta. Fe
+181,140-Cataluña: I. Sto. Domingo,41.667491,-0.852834,19,140-Cataluña: I. Sto. Domingo
+182,141-Cataluña: Aguas Vivas,41.669855,-0.846149,19,141-Cataluña: Aguas Vivas
+183,96-Pomarón: Pº La Mina ,41.647847,-0.877304,23,96-Pomarón: Pº La Mina 
+184,105-Dr. Horno: Sacramento,41.649306,-0.891034,19,105-Dr. Horno: Sacramento
+185,173-Pignatelli: Ruiz Tapiador,41.633364,-0.888367,19,173-Pignatelli: Ruiz Tapiador
+186,175-Pza. Las Canteras,41.631854,-0.885435,19,175-Pza. Las Canteras
+187,176-Tierno Galván: S. Ramírez,41.632061,-0.881892,19,176-Tierno Galván: S. Ramírez
+188,258- Parq. Maska: Rallo Lahoz,41.656,-0.926898,19,258- Parq. Maska: Rallo Lahoz
+189,206-Lagos Coronas: Astún,41.65683944,-0.93404537,19,206-Lagos Coronas: Astún
+190,181-Castellar: Lasierra Purroy,41.628636,-0.883886,19,181-Castellar: Lasierra Purroy
+191,182- Parq. La Paz,41.627747,-0.879296,19,182- Parq. La Paz
+192,183- Corazón de Jesús: Padua,41.628196,-0.875691,15,183- Corazón de Jesús: Padua
+193,184- Cuarta Avenida: Oviedo,41.626052,-0.882987,19,184- Cuarta Avenida: Oviedo
+194,201-Lagos Coronas: Leyva,41.650954,-0.9331640000000001,19,201-Lagos Coronas: Leyva
+195,174- Octavio Toledo: Buenavista,41.63213,-0.890674,19,174- Octavio Toledo: Buenavista
+196,177- Fray J. Garcés: Boente,41.629758,-0.887448,19,177- Fray J. Garcés: Boente
+197,178- Pinar: Cuarte,41.629549,-0.890889,19,178- Pinar: Cuarte
+198,179-Fray J. Garcés: Lerga Luna,41.627091,-0.888191,23,179-Fray J. Garcés: Lerga Luna
+199,180- V. Huarte: Barbastro,41.627233,-0.891621,19,180- V. Huarte: Barbastro
+200,185- Cuarta Avenida: Montecarlo,41.624721,-0.878941,19,185- Cuarta Avenida: Montecarlo
+201,186- Cuarta Avenida: Magaña,41.624919,-0.876041,18,186- Cuarta Avenida: Magaña
+202,188- Pza. San Marcos,41.615692142291046,-0.8730713313522287,19,188- Pza. San Marcos
+203,187- Pza. Marco Polo,41.619959,-0.873534,19,187- Pza. Marco Polo
+204,203- Lagos Llosas: Solana,41.662254,-0.929246,19,203- Lagos Llosas: Solana
+205,209- Puente Los Suspiros,41.618079,-0.875307,19,209- Puente Los Suspiros
+206,210- Rda. Hispanidad: Tiziano,41.620275,-0.876226,19,210- Rda. Hispanidad: Tiziano
+207,202- Lagos Coronas: Camisera,41.65387,-0.9344110000000001,19,202- Lagos Coronas: Camisera
+208,205- Lagos Alba: Trigoniero,41.660601,-0.931025,19,205- Lagos Alba: Trigoniero
+209,207- Cno. Pilón: Orozco,41.658624,-0.940997,19,207- Cno. Pilón: Orozco
+210,208- Ibón Plan: Cno. Pilón,41.659227,-0.9378660000000001,19,208- Ibón Plan: Cno. Pilón
+211,251- Millán Serrano: Orquídea,41.642514,-0.9288339999999999,19,251- Millán Serrano: Orquídea
+212,241- A. Príncipe: Anillo Verde,41.653,-0.924231,19,241- A. Príncipe: Anillo Verde
+213,259- Cno. Pilón: Oriz García,41.658363,-0.928531,19,259- Cno. Pilón: Oriz García
+214,260- Ibón Armeña: Cno. Pilón,41.658995,-0.93347,19,260- Ibón Armeña: Cno. Pilón
+215,274- Cno. Pilón: Pz. Peñetas,41.658767,-0.9432640000000001,19,274- Cno. Pilón: Pz. Peñetas
+216,240- Hispanidad: Rallo Lahoz,41.65491,-0.92086,19,240- Hispanidad: Rallo Lahoz
+217,242- Rguez. Ayuso: Enlaces,41.649487,-0.91929,19,242- Rguez. Ayuso: Enlaces
+218,253- Rguez. Ayuso 58,41.646895,-0.9231149999999999,19,253- Rguez. Ayuso 58
+219,257- Bosqued: Pasteur,41.650808,-0.9214659999999999,19,257- Bosqued: Pasteur
+221,204- Leyva: S. Alberto Magno,41.651629,-0.9297380000000001,19,204- Leyva: S. Alberto Magno
+222,256- Parq. Oeste: S. A. Magno,41.649743,-0.929742,19,256- Parq. Oeste: S. A. Magno
+223,273- Cáncer: Camisera,41.653019,-0.9296520000000001,19,273- Cáncer: Camisera
+224,243- Anillo Verde: Rguez. Ayuso,41.645146,-0.9240439999999999,19,243- Anillo Verde: Rguez. Ayuso
+225,250- Biel: Hortensia,41.640861,-0.925267,19,250- Biel: Hortensia
+226,254- Leyva: Anillo Verde,41.651593,-0.924945,19,254- Leyva: Anillo Verde
+227,245- Campillo Llerena,41.638017,-0.9240720000000001,19,245- Campillo Llerena
+228,247- Centauro: Argos,41.63585,-0.930446,19,247- Centauro: Argos
+229,249- Pza. Inmaculada,41.639823,-0.930538,19,249- Pza. Inmaculada
+230,252- Estrellas: Orión,41.643001,-0.9344179999999999,19,252- Estrellas: Orión
+231,272- S. Juan B. Salle: Piquero,41.636135,-0.9412210000000001,19,272- S. Juan B. Salle: Piquero
+232,194- Parq. Los Incrédulos,41.629825,-0.9082640000000001,19,194- Parq. Los Incrédulos
+233,195- Sagrada Familia,41.629131,-0.9108450000000001,19,195- Sagrada Familia
+234,246- Pza. Armonía,41.637761,-0.9327399999999999,19,246- Pza. Armonía
+235,248- Orión: Ozanam,41.641184,-0.933899,19,248- Orión: Ozanam
+236,192- Olivar: Quirón,41.630245,-0.920925,19,192- Olivar: Quirón
+237,196- Argualas: El Greco,41.627355,-0.9149869999999999,19,196- Argualas: El Greco
+238,244- Gmez. Laguna: Hayedo,41.639577,-0.9172970000000001,19,244- Gmez. Laguna: Hayedo
+239,197- Vía Ibérica: Cno. Almotilla,41.623833,-0.911538,19,197- Vía Ibérica: Cno. Almotilla
+240,199- Argualas: Sabocos,41.626005,-0.9120369999999999,19,199- Argualas: Sabocos
+241,200- Pza. Bámbola,41.622885,-0.9176819999999999,19,200- Pza. Bámbola
+242,223- Ilustración 21,41.630031,-0.935696,19,223- Ilustración 21
+243,225- Ilustración: Mesta,41.630092,-0.9411799999999999,19,225- Ilustración: Mesta
+244,226- Camping Rosales,41.638205,-0.943341,19,226- Camping Rosales
+245,228- Wagner: Beethoven,41.63423,-0.945313,19,228- Wagner: Beethoven
+246,229- J. Rodrigo: Beethoven ,41.638058,-0.945884,19,229- J. Rodrigo: Beethoven 
+247,211- Los Olvidados: Mercado,41.621865,-0.91975,19,211- Los Olvidados: Mercado
+248,214- Ciud. Kane: Los Pájaros,41.621684,-0.923764,19,214- Ciud. Kane: Los Pájaros
+249,230- Beethoven: Schubert,41.639589,-0.9483250000000001,19,230- Beethoven: Schubert
+250,212- Los Olvidados: Shangai,41.618636,-0.922549,19,212- Los Olvidados: Shangai
+251,216- Ilustración: Jovellanos,41.627612,-0.9258939999999999,19,216- Ilustración: Jovellanos
+252,231- Heroínas Sitios: Gómara,41.627549,-0.962297,19,231- Heroínas Sitios: Gómara
+253,233- 21 de Junio: Miguelete,41.625623,-0.957692,19,233- 21 de Junio: Miguelete
+254,218- Desayuno Diamantes,41.62293968,-0.92975862,18,218- Desayuno Diamantes
+255,219- Tomás Lezáun: Ilustración,41.629767,-0.9317870000000001,19,219- Tomás Lezáun: Ilustración
+256,220- Isla del Tesoro: Titanic,41.62536782,-0.93101623,21,220- Isla del Tesoro: Titanic
+257,221- Casablanca: L. Schindler,41.62138321,-0.9338871999999999,19,221- Casablanca: L. Schindler
+258,213- Pza. Edad de Oro,41.616907,-0.92503,19,213- Pza. Edad de Oro
+259,215- Veracruz: Manhattan,41.621099,-0.9273939999999999,19,215- Veracruz: Manhattan
+260,217- Isla Tesoro: Resplandor,41.624531,-0.9273169999999998,19,217- Isla Tesoro: Resplandor
+261,227- Patio Naranjos: Rolando,41.622584,-0.948872,19,227- Patio Naranjos: Rolando
+262,145- Avda. Estudiantes,41.672233,-0.830639,19,145- Avda. Estudiantes
+263,146- Pza. Serrano Berges,41.666896,-0.831292,19,146- Pza. Serrano Berges
+264,222- Americano París: Jard. Alá,41.62416141,-0.93614365,19,222- Americano París: Jard. Alá
+265,232- Cañones Zaragoza: Tella,41.622353,-0.9530949999999999,19,232- Cañones Zaragoza: Tella
+266,143- Sta. Isabel: Víctor Jara,41.66938,-0.838441,23,143- Sta. Isabel: Víctor Jara
+267,144- Ostáriz Forcén: Brazal,41.669108,-0.833747,19,144- Ostáriz Forcén: Brazal
+268,147- Norte: Iglesia,41.669329,-0.830273,19,147- Norte: Iglesia
+269,263- Avda. Real Zaragoza,41.666994,-0.823078,19,263- Avda. Real Zaragoza
+270,22- Delicias Llegadas,41.658959,-0.9138219999999999,19,22- Delicias Llegadas
+271,142- Ávila: Valencia,41.646496,-0.896808,19,142- Ávila: Valencia
+272,189- Puerto Venecia Oeste,41.608748,-0.890186,39,189- Puerto Venecia Oeste
+273,224- Manuel Viola,41.659116,-0.85727,19,224- Manuel Viola
+274,190- Puerto Venecia Este,41.608201,-0.883927,41,190- Puerto Venecia Este
+276,127- Navarra: Rioja,41.6555116,-0.90866028,19,127- Navarra: Rioja
+277,150- Mrio. Siresa: Dr. Iranzo,41.647562,-0.864074,19,150- Mrio. Siresa: Dr. Iranzo
+278,270- Delicias Autobuses,41.659493,-0.910759,19,270- Delicias Autobuses
+279,193- Pza. La Ermita,41.631471,-0.9111899999999999,19,Pza. La Ermita
