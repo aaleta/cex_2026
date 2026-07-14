@@ -1,0 +1,661 @@
+;Job Title;min_salary;max_salary;Rating;Company Name;python;excel;hadoop;spark;aws;tableau;big_data
+0;Sr Data Scientist;137;171;3.1;Healthfirst;0;0;0;0;1;0;0
+1;DATA SCIENTIST;137;171;4.2;ManTech;0;0;1;0;0;0;1
+2;Data Scientist;137;171;3.8;Analysis Group;1;1;0;0;1;0;0
+3;Data Scientist;137;171;3.5;INFICON;1;1;0;0;1;0;0
+4;Data Scientist;137;171;2.9;Affinity Solutions;1;1;0;0;0;0;0
+5;Data Scientist;137;171;4.2;HG Insights;1;1;1;1;0;0;0
+6;Data Scientist / Machine Learning Expert;137;171;3.9;Novartis;1;0;0;0;0;0;0
+7;Data Scientist;137;171;3.5;iRobot;1;0;0;0;0;0;0
+8;Staff Data Scientist - Analytics;137;171;4.4;Intuit - Data;0;0;0;0;0;0;0
+9;Data Scientist;137;171;3.6;XSELL Technologies;1;0;0;0;0;0;0
+10;Data Scientist;137;171;4.5;Novetta;1;1;0;0;1;0;0
+11;Data Scientist;137;171;4.7;1904labs;1;0;0;1;0;0;0
+12;Data Scientist - Statistics, Early Career;137;171;3.7;PNNL;0;1;0;0;0;0;0
+13;Data Modeler;137;171;3.1;Old World Industries;1;1;0;0;0;1;0
+14;Data Scientist;137;171;3.4;Mathematica Policy Research;1;1;0;0;1;0;0
+15;Experienced Data Scientist;137;171;4.4;Guzman & Griffin Technologies (GGTI);1;1;1;1;0;1;0
+16;Data Scientist;137;171;3.5;Buckman;1;0;1;0;0;0;0
+17;Data Analyst II;137;171;4.2;Insight Enterprises, Inc.;0;1;0;0;0;0;0
+18;Medical Lab Scientist;137;171;3.5;Tower Health;0;0;0;0;0;0;0
+19;Data Scientist;137;171;3.2;Triplebyte;0;0;0;0;0;0;0
+20;Data Scientist/Machine Learning;137;171;4.3;PulsePoint;1;0;1;1;0;0;1
+21;Human Factors Scientist;137;171;3.5;Exponent;0;1;0;0;0;0;0
+22;Business Intelligence Analyst I- Data Insights;137;171;3.5;Guardian Life;0;0;0;0;0;0;0
+23;Data Scientist;137;171;3.4;Spectrum Communications and Consulting;0;0;0;0;0;0;0
+24;DATA SCIENTIST;137;171;4.7;Oversight Systems;1;1;0;0;0;0;0
+25;Data Scientist - Risk;137;171;4.2;LSQ;1;1;1;1;1;1;1
+26;Data Scientist-Human Resources;137;171;3.8;MIT Lincoln Laboratory;1;0;1;1;0;0;1
+27;Data Scientist;137;171;4.5;Kingfisher Systems;1;0;0;0;0;1;0
+28;Data Scientist;137;171;2.8;Formation;0;1;0;1;0;0;1
+29;Data Scientist;75;131;3.8;Analysis Group;1;1;0;0;1;0;0
+30;Data Scientist / Machine Learning Expert;75;131;3.9;Novartis;1;0;0;0;0;0;0
+31;Data Scientist;75;131;5.0;Cohere Health;1;1;0;0;0;0;0
+32;Senior Research Statistician- Data Scientist;75;131;4.8;Acuity Insurance;0;0;0;0;0;0;0
+33;Data Engineer;75;131;3.6;Chef;0;1;0;0;1;0;1
+34;Associate Data Scientist;75;131;3.3;Puget Sound Energy;0;1;1;1;0;0;0
+35;Business Intelligence Analyst;75;131;2.7;Sandhills Global;1;1;0;0;0;1;0
+36;Data Scientist;131;75;2.7;A Place for Mom;1;1;0;0;1;0;0
+37;Data Scientist;75;131;2.2;Great-Circle Technologies;1;1;1;1;1;0;0
+38;Senior Analyst/Data Scientist;75;131;3.4;Edmunds.com;1;1;0;0;1;1;0
+39;Data Analyst;75;131;3.1;Cambridge Associates, LLC;1;1;0;0;0;0;0
+40;Machine Learning Engineer;75;131;3.4;Liberty Mutual Insurance;1;1;0;1;1;0;1
+41;Data Analyst I;75;131;2.6;Cenlar;0;0;0;0;0;0;0
+42;Scientist - Molecular Biology;75;131;5.0;Arsenal Biosciences;0;0;0;0;0;0;0
+43;Data Scientist;75;131;4.2;Eversight;1;0;0;0;0;0;0
+44;Computational Scientist, Machine Learning;75;131;4.1;Pfizer;1;1;0;0;1;0;0
+45;Senior Data Scientist;75;131;4.8;Klaviyo;0;0;0;0;0;0;0
+46;Data Scientist;75;131;3.3;Intellectual Ventures;1;1;0;0;0;0;0
+47;Data Scientist;75;131;3.7;GovTech;1;1;0;0;0;1;0
+48;Data Scientist;75;131;4.3;Quick Base;1;1;0;0;0;1;0
+49;Data Analyst;75;131;4.8;Giving Assistant;1;1;0;0;0;1;0
+50;Data Scientist;75;131;3.7;Takeda;1;0;0;1;0;0;0
+51;Data Scientist;75;131;4.0;Netskope;1;1;0;1;0;0;1
+52;E-Commerce Data Analyst;75;131;3.5;iSeatz;0;1;0;0;0;0;0
+53;Data Analytics Engineer;75;131;3.7;Summa Health System;0;1;0;0;1;1;0
+54;Senior Data Scientist;75;131;3.5;Benson Hill;1;1;0;0;0;0;1
+55;Product Data Scientist - Ads Data Science;75;131;4.1;Twitter;1;0;0;0;0;0;0
+56;Data Scientist;75;131;3.2;Postmates - Corporate HQ;1;0;0;1;0;0;0
+57;Data Scientist - Intermediate;75;131;4.5;Envision LLC;1;1;0;0;0;0;0
+58;Data Analyst;75;131;3.8;Swiss Re;1;1;0;0;0;0;0
+59;Machine Learning Engineer;75;131;4.5;Systems & Technology Research;1;1;0;0;0;0;0
+60;Data Scientist;79;131;3.5;iRobot;1;0;0;0;0;0;0
+61;Data Scientist;79;131;4.2;HG Insights;1;1;1;1;0;0;0
+62;Global Data Analyst;79;131;3.8;Dermalogica;0;1;0;0;0;1;0
+63;Data Engineer;79;131;3.7;Bayview Asset Management;1;0;0;0;0;0;0
+64;DATA SCIENTIST;79;131;3.7;Via Transportation;1;0;0;0;0;1;0
+65;Data Scientist;79;131;4.0;Grid Dynamics;1;1;0;0;0;1;1
+66;Data & Machine Learning Scientist;79;131;3.3;Tempus Labs;1;0;0;0;1;0;0
+67;Data Scientist - Machine Learning;79;131;2.5;CareDx;1;1;0;1;0;0;0
+68;Data Engineer (Remote);79;131;4.2;IZEA;1;1;1;1;1;0;0
+69;Data Scientist, Applied Machine Learning - Bay Area;79;131;3.3;Tempus Labs;1;0;0;0;1;0;0
+70;Principal Data Scientist;79;131;4.0;Autodesk;1;1;1;1;1;0;1
+71;Business Data Analyst;79;131;3.7;Caterpillar;0;1;0;0;0;1;0
+72;Purification Scientist;79;131;4.9;New England Biolabs;0;0;0;0;0;0;0
+73;Data Analyst;79;131;3.4;Allied Solutions;1;1;0;0;0;1;0
+74;Data Engineer, Enterprise Analytics;79;131;3.1;Healthfirst;1;1;0;0;0;0;1
+75;Data Scientist;79;131;3.5;The Knot Worldwide;1;0;0;1;1;0;0
+76;Data Scientist;79;131;2.9;IFG Companies;1;0;0;0;0;0;0
+77;Data Scientist 3 (718);79;131;3.3;Amyris;1;0;0;0;1;0;0
+78;Real World Science, Data Scientist;79;131;4.0;AstraZeneca;1;0;1;0;0;0;0
+79;Data Scientist;79;131;3.6;Powertek;0;0;0;0;0;0;0
+80;Data Engineer;79;131;4.7;Object Partners;0;0;1;1;1;0;1
+81;Data Scientist - Image and Video Analytics;79;131;4.9;The Mom Project;1;0;1;1;1;0;0
+82;Data Scientist;79;131;4.3;Lightspeed Systems;1;0;0;1;1;0;0
+83;Data Science Manager, Payment Acceptance - USA;79;131;4.0;Stripe;1;0;0;0;0;0;0
+84;Data Analyst;79;131;2.6;Comprehensive Healthcare;0;0;0;0;0;0;0
+85;Data Scientist / Applied Mathematician;79;131;4.5;Fullpower Technologies, Inc.;1;0;0;0;1;0;1
+86;Machine Learning Engineer;79;131;4.8;Klaviyo;1;0;0;0;0;0;0
+87;Data Scientist;79;131;3.9;Mars;1;0;0;1;1;0;0
+88;Patient Safety- Associate Data Scientist;79;131;4.0;AstraZeneca;1;1;0;0;0;0;0
+89;Machine Learning Engineer;79;131;4.4;NuWave Solutions;1;0;1;1;1;0;0
+90;Senior Data Scientist;79;131;4.2;ManTech;1;0;1;1;0;1;1
+91;Data Scientist;99;132;3.4;Mathematica Policy Research;1;1;0;0;1;0;0
+92;Staff Data Scientist - Analytics;99;132;4.4;Intuit - Data;0;0;0;0;0;0;0
+93;Data Analytics Engineer;99;132;3.5;QOMPLX;1;0;0;1;0;0;0
+94;Data Scientist, Kinship - NYC/Portland;99;132;3.9;Mars;1;0;0;1;0;0;0
+95;Senior Data Scientist;99;132;3.8;GutCheck;0;0;0;0;0;0;0
+96;Applied Technology Researcher / Data Scientist;99;132;3.5;Inter-American Development Bank;0;1;0;0;0;1;0
+97;Machine Learning Engineer;99;132;4.4;Stratagem Group;1;1;1;1;1;0;0
+98;Health Data Scientist - Biomedical/Biostats;99;132;4.1;Evidation;1;0;0;0;0;0;0
+99;Senior Data Scientist;99;132;4.0;Autodesk;1;0;1;1;0;0;1
+100;Staff Data Scientist;99;132;4.4;Intuit - Data;0;0;0;0;0;0;0
+101;DATA SCIENTIST;99;132;3.8;Tecolote Research;1;1;0;0;0;1;0
+102;Sr Data Engineer (Sr BI Developer);99;132;3.2;Tivity Health;0;0;1;0;0;0;1
+103;Data Engineer;99;132;2.9;hc1;1;0;0;0;1;0;0
+104;Lead Data Scientist;99;132;4.1;HP Inc.;1;1;1;0;1;0;1
+105;Data Scientist;99;132;3.7;SAIC;1;0;0;0;0;0;0
+106;RFP Data Analyst;99;132;3.2;AllianceBernstein;0;1;0;1;0;0;0
+107;Data Analyst;99;132;4.9;Big Huge Games;0;1;0;0;0;1;0
+108;Data Scientist (TS/SCI);99;132;3.5;Maxar Technologies;1;0;0;0;0;0;1
+109;Data Engineer;99;132;5.0;Phantom AI;1;0;0;0;0;0;0
+110;Data Scientist;99;132;4.0;Noblis;1;0;1;1;1;1;0
+111;Data Scientist;99;132;3.6;Spring Health;1;1;0;0;0;0;0
+112;Software Engineer - Data Science;99;132;4.0;ClearEdge;1;1;1;1;0;0;1
+113;Data Analyst/Engineer;99;132;3.2;AllianceBernstein;1;1;0;0;0;0;0
+114;NGS Scientist;99;132;5.0;Arsenal Biosciences;0;1;0;0;0;0;0
+115;Data Engineer;99;132;4.8;GetWellNetwork;1;0;0;0;0;0;0
+116;Data Scientist;99;132;4.5;TACG Solutions;1;1;0;0;0;1;0
+117;Senior Data Engineer;99;132;-1.0;Scoop;1;0;0;1;0;0;0
+118;Senior Data Scientist;99;132;4.5;Novetta;1;1;0;0;1;0;0
+119;Data Engineer;99;132;4.2;IZEA;1;1;1;1;1;0;0
+120;Business Intelligence Analyst;99;132;3.4;Montway Inc;1;1;0;0;0;1;0
+121;Sr. ML/Data Scientist - AI/NLP/Chatbot;99;132;3.8;Juniper Networks;1;1;0;1;1;0;0
+122;Data Scientist;90;109;4.7;1904labs;1;0;0;1;0;0;0
+123;DATA SCIENTIST;90;109;3.6;XSELL Technologies;1;0;0;0;0;0;0
+124;Data Engineer;90;109;4.2;IZEA;1;1;1;1;1;0;0
+125;Sr. ML/Data Scientist - AI/NLP/Chatbot;90;109;3.8;Juniper Networks;1;1;0;1;1;0;0
+126;Data Scientist;90;109;5.0;Notion Labs;0;0;0;0;0;0;0
+127;Senior Data Engineer;90;109;4.9;Lendio;1;0;1;1;1;0;1
+128;Data Engineer;90;109;4.4;Direct Agents;1;1;0;0;0;0;0
+129;Data Scientist;90;109;3.3;NAVEX Global;1;0;0;1;0;1;0
+130;Senior Data Engineer;90;109;4.9;Lendio;1;0;1;1;1;0;1
+131;Data Scientist;90;109;4.2;Upstart;1;0;0;0;0;0;0
+132;Data Analyst;90;109;4.5;Envision LLC;1;0;1;1;0;1;1
+133;Data Engineer;90;109;4.8;AppLovin;0;1;1;1;0;0;1
+134;Data Integration and Modeling Engineer;90;109;3.8;ISO New England;0;1;0;0;0;0;0
+135;Tableau Data Engineer 20-0117;90;109;5.7;Relativity;0;1;0;1;0;1;0
+136;Senior Data Scientist;90;109;3.3;Tempo Automation;1;0;1;1;1;1;1
+137;AI Data Scientist;90;109;3.3;MITRE;1;0;0;0;0;0;0
+138;Machine Learning Engineer;90;109;5.0;Expedition Technology, Inc.;1;1;0;0;0;0;0
+139;Research Scientist Patient Preferences (Remote);90;109;3.8;Evidera;0;1;0;0;0;0;0
+140;Data Scientist;90;109;3.4;Plymouth Rock Assurance;0;1;0;0;0;0;0
+141;Scientist - Biomarker and Flow Cytometry;90;109;2.4;Crown Bioscience;0;0;0;0;0;0;0
+142;DATA SCIENTIST;90;109;2.9;GNS Healthcare;0;0;0;0;1;0;1
+143;Analytics Manager;90;109;4.4;OneMagnify;0;1;0;0;0;1;0
+144;Data Scientist;90;109;2.9;SPECTRUM;1;1;1;0;0;0;1
+145;Staff Scientist- Upstream PD;90;109;2.7;Advanced BioScience Laboratories;0;0;0;0;0;0;0
+146;Data Engineer;90;109;4.2;Procore Technologies;1;1;1;1;1;0;0
+147;Sr Scientist - Extractables & Leachables;90;109;3.5;Ritedose;0;1;0;0;0;0;0
+148;ELISA RESEARCH SCIENTIST (CV-15);90;109;0.0;Covid-19 Search Partners;0;0;0;0;0;0;0
+149;Sr Data Scientist;90;109;4.2;bioMérieux;1;1;0;0;0;0;0
+150;Data Scientist;101;165;4.5;Novetta;1;1;0;0;1;0;0
+151;Experienced Data Scientist;101;165;4.4;Guzman & Griffin Technologies (GGTI);1;1;1;1;0;1;0
+152;Machine Learning Engineer;101;165;0.0;Radical Convergence;1;0;0;0;0;0;0
+153;Data Scientist;101;165;3.5;Leidos;0;0;0;0;1;0;1
+154;Data Scientist;101;165;4.5;Demandbase;1;0;0;1;1;0;1
+155;Say Business Data Analyst;101;165;4.1;Shelter Insurance;1;1;0;0;1;1;0
+156;Geospatial Data Scientist;101;165;3.5;Maxar Technologies;0;0;0;0;0;0;0
+157;Data Analyst;101;165;2.7;USAC;1;1;0;0;0;0;0
+158;Computational Scientist;101;165;3.4;General Dynamics Information Technology;0;0;0;0;0;0;0
+159;Data Scientist;101;165;4.4;Offerpad;1;1;0;0;0;0;0
+160;Senior Data Analyst;101;165;4.0;Autodesk;1;0;1;1;0;0;1
+161;Senior Data Analyst;101;165;4.2;Autodesk;1;0;1;1;0;1;1
+162;Data Engineer;101;165;3.5;Magna International Inc.;1;0;1;1;1;0;1
+163;Sr Data Analyst;101;165;2.3;United BioSource;0;1;0;0;0;1;0
+164;DATA SCIENTIST;101;165;3.4;Kelly;0;1;0;0;0;0;0
+165;Machine Learning Scientist - Bay Area, CA;101;165;3.3;Tempus Labs;1;0;0;0;1;0;0
+166;Data Scientist;101;165;4.7;C3.ai;1;1;0;0;0;0;0
+167;Senior Data Scientist - Algorithms;101;165;3.9;Quartet Health;1;0;1;0;0;0;0
+168;Data Analyst;101;165;3.3;Midland Credit Management;1;1;0;0;0;0;0
+169;Senior Data & Machine Learning Scientist;101;165;3.3;Tempus Labs;1;0;0;0;1;0;0
+170;Data Engineer;101;165;4.4;Resurgent Capital Services;1;1;0;0;1;0;0
+171;Data Scientist - Statistics, Early Career;56;97;3.7;PNNL;0;1;0;0;0;0;0
+172;Data Scientist;56;97;3.5;Buckman;1;0;1;0;0;0;0
+173;Machine Learning Engineer;56;97;3.6;Buckman;1;0;0;0;0;0;0
+174;Research Scientist - Patient-Centered Research (Remote);56;97;3.8;Evidera;0;1;0;0;0;0;0
+175;Jr. Business Data Analyst (position added 6/12/2020);56;97;4.7;webfx.com;0;1;0;0;0;0;0
+176;Sr. Data Scientist II;56;97;3.5;Argo Group US;1;0;1;1;1;0;0
+177;Data Scientist;56;97;3.3;BWX Technologies;1;0;0;0;0;0;0
+178;Senior Data Analyst;56;97;3.9;Life360;1;0;0;0;0;1;0
+179;Lead Data Scientist;56;97;3.7;MassMutual;1;0;1;1;1;0;0
+180;Production Engineer - Statistics/Data Analysis;56;97;3.9;Natera;1;1;0;0;1;0;0
+181;Statistical Scientist;56;97;4.0;Genentech;1;1;0;0;1;0;0
+182;Computational Behavioral Scientist;56;97;4.2;Ntrepid;1;0;0;0;0;0;0
+183;Principal Data Scientist - Machine Learning;56;97;3.6;Constant Contact;1;1;1;1;1;0;1
+184;Principal Machine Learning Scientist;56;97;4.7;Sage Intacct;1;0;0;0;0;0;0
+185;Data Engineer;56;97;4.1;Shape Security;1;0;0;0;1;0;1
+186;Principal Data Scientist;56;97;4.0;AstraZeneca;1;1;0;0;0;0;0
+187;Data Scientist;56;97;5.0;SkillSoniq;1;0;0;0;0;0;0
+188;Senior Data Scientist - R&D Oncology;56;97;4.0;AstraZeneca;1;0;0;0;0;0;0
+189;Data Scientist;56;97;4.3;Joby Aviation;1;1;0;1;1;0;1
+190;Health Plan Data Analyst, Sr;56;97;3.8;Cook Children's Health Care System;0;0;0;0;0;0;0
+191;Principal Scientist/Associate Director, Quality Control and Analytical Technologies;56;97;3.8;Rubius Therapeutics;0;0;0;0;0;0;0
+192;Analytics - Business Assurance Data Analyst;56;97;4.6;GreatAmerica Financial Services;0;1;0;0;0;1;0
+193;Data Scientist;79;106;3.4;Spectrum Communications and Consulting;0;0;0;0;0;0;0
+194;DATA SCIENTIST;79;106;4.1;Coverent;1;1;0;0;0;0;0
+195;Machine Learning Engineer;79;106;3.7;Mteq;1;0;0;0;0;0;0
+196;Data Engineer;79;106;4.4;Rocket Lawyer;1;1;1;0;0;0;1
+197;Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab;79;106;3.9;Novartis;0;0;0;0;0;0;0
+198;Data Engineer;79;106;3.6;Alion Science & Technology;1;1;0;0;1;0;1
+199;Data Science Instructor;79;106;4.5;Novetta;0;1;0;0;0;0;0
+200;Senior Business Intelligence Analyst;79;106;3.7;Protolabs;0;0;0;0;0;0;0
+201;In-Line Inspection Data Analyst;79;106;2.9;Quest Integrity;0;1;0;0;0;0;0
+202;Data Scientist - TS/SCI FSP or CI Required;79;106;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+203;DATA SCIENTIST;79;106;3.4;Dice.com;1;1;0;0;1;0;0
+204;Senior Data Scientist;79;106;3.5;Maxar Technologies;1;1;0;0;0;0;1
+205;Data Scientist - TS/SCI Required;79;106;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+206;Data Science Software Engineer;79;106;4.8;Klaviyo;1;0;0;0;0;0;0
+207;ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR;79;106;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+208;AI Ops Data Scientist;79;106;4.0;AstraZeneca;1;0;1;1;1;0;0
+209;Intelligence Data Analyst, Senior;79;106;4.3;The Buffalo Group;1;0;0;0;0;0;0
+210;Analytics Manager - Data Mart;79;106;3.5;Central California Alliance for Health;0;0;0;0;0;1;0
+211;Data Modeler (Analytical Systems);79;106;3.7;MassMutual;0;1;1;1;0;0;1
+212;Senior Machine Learning Scientist - Bay Area, CA;79;106;3.3;Tempus Labs;1;0;0;0;1;0;0
+213;Report Writer-Data Analyst;79;106;3.1;Security Finance Corporation of Spartanburg;0;0;0;0;0;0;0
+214;Data Scientist/Machine Learning;71;123;4.3;PulsePoint;1;0;1;1;0;0;1
+215;Data Scientist - Risk;71;123;4.2;LSQ;1;1;1;1;1;1;1
+216;Data Engineer;71;123;4.4;Resurgent Capital Services;1;1;0;0;1;0;0
+217;Staff Data Scientist - Pricing;71;123;3.6;Opendoor;1;0;0;0;1;0;0
+218;Data Scientist;71;123;4.5;Global Data Management Inc;1;0;0;0;0;0;0
+219;Data Scientist;71;123;3.0;Photon Infotech;1;1;1;1;0;0;1
+220;DATA SCIENTIST;71;123;5.0;REE;1;0;0;0;0;0;1
+221;Machine Learning Engineer;71;123;3.6;Riverside Research Institute;1;0;0;0;0;0;0
+222;Equity Data Insights Analyst - Quantitative Analyst;71;123;3.6;T. Rowe Price;1;1;0;0;0;1;0
+223;Data Scientist;71;123;0.0;Encode, Inc.;0;1;0;0;1;0;1
+224;Research Scientist - Patient-Centered Research (Remote);71;123;3.8;Evidera;0;1;0;0;0;0;0
+225;Data Scientist;71;123;3.3;BWX Technologies;1;0;0;0;0;0;0
+226;Operations Data Analyst;71;123;3.8;Brighthouse Financial;0;0;0;0;0;0;0
+227;Sr. Data Scientist II;71;123;3.5;Argo Group US;1;0;1;1;1;0;0
+228;Data Scientist;71;123;3.3;II-VI Incorporated;0;1;0;0;0;0;0
+229;Data Scientist;71;123;4.6;Surya Systems;1;0;1;0;0;1;0
+230;Senior Data Analyst;71;123;3.9;Life360;1;0;0;0;0;1;0
+231;Data Scientist;71;123;3.9;Predictive Research Inc;1;0;0;0;0;0;0
+232;Data Scientist;90;124;4.7;Oversight Systems;1;1;0;0;0;0;0
+233;Senior Research Statistician- Data Scientist;90;124;4.8;Acuity Insurance;0;0;0;0;0;0;0
+234;Software Data Engineer;90;124;3.1;1010data;1;1;0;0;1;0;0
+235;Data Scientist;90;124;3.6;Gigya;0;0;0;0;0;0;1
+236;Real World Evidence (RWE) Scientist;90;124;5.0;Genesis Research;1;0;0;0;0;0;0
+237;Data Scientist;90;124;3.7;Sanofi;1;0;0;0;0;1;1
+238;Data Scientist;90;124;3.7;XPO Logistics;1;0;0;0;0;0;1
+239;DATA SCIENTIST;90;124;3.9;Trace Data;1;0;0;1;0;0;0
+240;Data Scientist;90;124;4.3;Descript;1;0;0;0;0;0;0
+241;Computer Scientist 1;90;124;4.2;Rincon Research Corporation;1;0;0;0;0;0;0
+242;Lead Data Scientist;90;124;3.7;MassMutual;1;0;1;1;1;0;0
+243;Data Scientist;90;124;4.0;Better Hire;0;0;0;0;0;0;0
+244;Data Scientist;90;124;3.3;Parker Hannifin;1;1;0;0;0;0;0
+245;Data Scientist;90;124;4.1;Gallup;1;1;0;0;0;0;0
+246;Data Scientist;90;124;3.3;Insider Inc;1;1;0;0;0;0;0
+247;Data Scientist;90;124;3.9;Rapid Value Solutions;1;0;0;0;1;0;0
+248;Environmental Data Science;90;124;3.1;Battelle;0;1;0;0;0;0;0
+249;Computational Behavioral Scientist;90;124;4.2;Ntrepid;1;0;0;0;0;0;0
+250;Data Scientist;90;124;5.0;The Drive Media, Inc.;1;1;0;0;0;0;0
+251;Staff BI and Data Engineer;90;124;2.9;Affinity Solutions;1;0;0;1;0;1;1
+252;Principal Machine Learning Scientist;90;124;4.7;Sage Intacct;1;0;0;0;0;0;0
+253;Principal Data Scientist - Machine Learning;90;124;3.6;Constant Contact;1;1;1;1;1;0;1
+254;Data Scientist-Human Resources;91;150;3.8;MIT Lincoln Laboratory;1;0;1;1;0;0;1
+255;Associate Data Scientist;91;150;3.3;Puget Sound Energy;0;1;1;1;0;0;0
+256;Data Scientist - Statistics, Mid-Career;91;150;3.7;Pacific Northwest National Laboratory;0;0;0;0;0;0;0
+257;Director of Data Science;91;150;3.8;Analysis Group;1;1;0;0;1;0;0
+258;Data Scientist;91;150000;3.2;US Pharmacopeia;1;1;0;0;0;1;0
+259;Data Scientist;91;150;4.6;Itlize Global;1;0;1;1;0;0;1
+260;DATA SCIENTIST;91;150;3.5;eBay;1;0;1;0;0;1;1
+261;Data Engineer, Digital & Comp Pathology;91;150;5.0;Paige;1;1;0;0;1;0;0
+262;Data Engineer;91;150;4.1;Shape Security;1;0;0;0;1;0;1
+263;Manager / Lead, Data Science & Analytics;91;150;4.1;ABIOMED;1;1;0;0;0;1;0
+264;Data Scientist;91;150;3.5;Comcast;1;0;0;0;1;1;0
+265;Data Scientist;91;150;3.2;Metronome, LLC;1;0;0;1;0;0;1
+266;Data Scientist;91;150;5.0;SkillSoniq;1;0;0;0;0;0;0
+267;Data Scientist;91;150;4.7;Lawrence Livermore National Lab;1;1;0;0;0;0;1
+268;Diversity and Inclusion Data Analyst;91;150;3.8;FHLBank Pittsburgh;0;0;0;0;1;1;0
+269;Data Scientist;91;150;3.6;Jacobs;1;0;1;1;1;1;0
+270;Data Scientist;91;150;4.8;Klaviyo;0;0;0;0;0;0;0
+271;Data Scientist;91;150;3.3;Underwriters Laboratories;0;0;0;1;0;0;0
+272;Data Scientist;91;150;3.7;Altus Group;1;1;0;0;1;1;0
+273;Data Scientist;91;150;5.0;Jobot;1;1;0;0;0;1;0
+274;Data Scientist;91;150;0.0;Trovetechs Inc;0;0;0;0;0;0;0
+275;Senior Analyst/Data Scientist;141;225;3.4;Edmunds.com;1;1;0;0;1;1;0
+276;Data Scientist;141;225;5.0;Cohere Health;1;1;0;0;0;0;0
+277;Data Scientist;141;225;0.0;Trovetechs Inc;0;0;0;0;0;0;0
+278;Senior Data Scientist - R&D Oncology;141;225;4.0;AstraZeneca;1;0;0;0;0;0;0
+279;DATA SCIENTIST;141;225;4.2;Oshkosh Corporation;1;1;1;1;0;0;1
+280;DATA SCIENTIST;141;225;4.3;Joby Aviation;1;1;0;1;1;0;1
+281;Data Scientist;141;225;3.4;Mackin;1;0;0;0;0;0;0
+282;Data Scientist;141;225;0.0;PETADATA;1;1;0;0;0;1;0
+283;Data Scientist;141;225;4.4;VBeyond Corporation;1;0;0;0;0;0;0
+284;Data Scientist Machine Learning;141;225;3.5;Leidos;1;0;0;0;1;0;0
+285;Data Scientist;141;225;3.7;Take-Two;1;1;0;1;1;1;0
+286;Data Scientist;141;225;3.7;Colony Brands;1;0;0;0;0;0;0
+287;Data Scientist;141;225;4.1;Capio Group;1;0;0;0;0;0;0
+288;Data Scientist;141;225;3.4;SleePare;1;0;0;1;0;0;0
+289;Data Analyst;141;225;4.5;ShorePoint;0;1;0;0;0;1;0
+290;DATA SCIENTIST;141;225;3.5;Dolphin;1;0;0;1;0;0;0
+291;Data Scientist;141;225;3.6;TE Connectivity;0;0;0;0;0;0;0
+292;DATA SCIENTIST;141;225;3.2;State of Virginia;1;0;1;0;0;0;1
+293;Data Scientist;141;225;3.7;TA Digital;1;0;0;0;1;0;1
+294;DATA SCIENTIST;141;225;4.0;Market America Inc;1;1;1;1;0;0;0
+295;Data Scientist;145;225;3.2;Triplebyte;0;0;0;0;0;0;0
+296;Data Scientist;145;225;4.5;Kingfisher Systems;1;0;0;0;0;1;0
+297;Data Scientist;145;225;3.9;ALTA IT Services;1;0;0;0;0;1;0
+298;Data Scientist;145;225;3.2;Kollasoft Inc.;1;1;0;0;0;0;0
+299;Data Scientist;145;225;5.0;Kollasoft Inc.;1;1;0;0;0;0;0
+300;Data Scientist;145;225;3.4;ASRC Federal Holding Company;0;1;0;0;0;0;0
+301;Data Scientist;145;225;4.4;Adwait Algorithm;1;0;1;1;0;0;1
+302;Health Plan Data Analyst, Sr;145;225;3.8;Cook Children's Health Care System;0;0;0;0;0;0;0
+303;Principal Scientist/Associate Director, Quality Control and Analytical Technologies;145;225;3.8;Rubius Therapeutics;0;0;0;0;0;0;0
+304;Data Scientist;145;225;3.5;Cambridge FX;1;1;0;0;0;1;0
+305;Senior Data Scientist;145;225;3.8;Metromile;1;0;0;1;1;0;0
+306;Data Scientist;200;200;3.9;Criteo;1;0;1;1;0;0;1
+307;DATA SCIENTIST;145;225;3.4;Advance Sourcing Concepts;1;0;0;0;1;0;0
+308;DATA SCIENTIST;145;225;3.8;Enterprise Solutions Inc;1;1;0;0;0;1;0
+309;Analytics - Business Assurance Data Analyst;145;225;4.6;GreatAmerica Financial Services;0;1;0;0;0;1;0
+310;Data Scientist;145;225;0.0;Microagility;0;1;0;0;0;0;0
+311;Data Scientist;145;225;4.6;Conch Technologies, Inc;0;0;0;0;0;0;0
+312;Development Scientist, Voltaren;145;225;3.9;GSK;0;0;0;0;1;0;0
+313;Data Scientist;145;225;0.0;Rainmaker Resources, LLC;0;1;0;0;0;0;1
+314;Data Scientist;79;147;3.7;GovTech;1;1;0;0;0;1;0
+315;Data Scientist;79;147;3.3;Intellectual Ventures;1;1;0;0;0;0;0
+316;Data Engineer;79;147;4.4;Rocket Lawyer;1;1;1;0;0;0;1
+317;DATA SCIENTIST;79;147;3.7;22nd Century Technologies;0;0;0;0;0;0;1
+318;Data Scientist;79;147;3.3;Huxley;1;0;0;0;0;0;0
+319;DATA SCIENTIST;79;147;3.4;FM Systems;1;1;0;1;1;0;1
+320;Data Scientist;79;147;0.0;B4Corp;1;1;0;0;0;0;0
+321;Machine Learning Engineer;79;147;3.7;Mteq;1;0;0;0;0;0;0
+322;Principal Data & Analytics Platform Engineer;79;147;3.7;Blue Cross and Blue Shield of North Carolina;1;1;0;1;1;0;1
+323;Machine Learning Engineer/Scientist;79;147;4.8;Jane Street;0;0;0;0;0;0;0
+324;Data Scientist;79;147;5.0;SSATI;1;1;0;0;0;0;0
+325;Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab;79;147;3.9;Novartis;0;0;0;0;0;0;0
+326;Data Scientist;79;147;3.4;Solving IT International Inc;0;1;0;0;0;0;0
+327;Data Scientist;79;147;3.3;The Davey Tree Expert Company;1;1;0;0;0;0;0
+328;Data Scientist;79;147;4.6;Centauri;0;0;0;0;0;0;0
+329;Data Scientist;79;147;0.0;Stride Search;1;0;0;0;0;0;0
+330;Machine Learning Engineer;79;147;2.6;Software Engineering Institute;1;0;0;0;0;0;0
+331;Data Analyst - Unilever Prestige;79;147;3.8;Dermalogica;1;0;0;0;0;1;0
+332;Data Scientist;79;147;4.8;TechProjects;1;1;0;0;0;1;0
+333;VP, Data Science;79;147;3.9;7Park Data;1;1;0;1;0;0;0
+334;DATA SCIENTIST;146;122;4.0;Netskope;1;1;0;1;0;0;1
+335;DATA SCIENTIST;122;146;4.2;Eversight;1;0;0;0;0;0;0
+336;Senior Business Intelligence Analyst;122;146;3.7;Protolabs;0;0;0;0;0;0;0
+337;Data Scientist;122;146;3.0;Ameritas Life Insurance Corp;0;0;0;0;0;0;0
+338;Data Engineer - Kafka;122;146;3.5;Western Digital;1;0;1;1;1;0;0
+339;Data Scientist;122;146;2.9;Shimento, Inc.;1;0;1;1;0;0;1
+340;Data Scientist;122;146;5.0;Averity;0;0;0;0;0;0;0
+341;Data Scientist;122;146;4.7;Praxis Engineering;0;0;0;0;1;0;1
+342;Data Scientist;122;146;0.0;Point72 Ventures;0;0;0;0;0;0;0
+343;Decision Scientist;122;146;4.5;Johns Hopkins University Applied Physics Laboratory;0;1;0;1;0;0;0
+344;Data Scientist;122;146;4.9;Cambridge Mobile Telematics;1;0;0;1;1;0;0
+345;Data Science All Star Program - Data Engineer Track;122;146;4.6;Blend360;1;0;1;1;1;0;0
+346;Data Scientist - TS/SCI FSP or CI Required;122;146;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+347;Data Analyst;122;146;3.9;Nolij Consulting;1;1;0;0;0;1;0
+348;Data Scientist;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+349;DATA SCIENTIST;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+350;DATA SCIENTIST;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+351;DATA SCIENTIST;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+352;Data Scientist;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+353;Data Scientist;122;146;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+354;Senior Data Scientist;122;146;3.5;Maxar Technologies;1;1;0;0;0;0;1
+355;Data Scientist;112;116;4.3;Quick Base;1;1;0;0;0;1;0
+356;data scientist;112;116;3.7;Takeda;1;0;0;1;0;0;0
+357;Data Scientist;112;116;3.5;Maxar Technologies;1;0;1;1;0;1;0
+358;ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR;112;116;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+359;Data Scientist;112;116;4.7;Compass Consulting Group;1;0;0;0;0;0;0
+360;Data Science Software Engineer;112;116;4.8;Klaviyo;1;0;0;0;0;0;0
+361;AI Ops Data Scientist;112;116;4.0;AstraZeneca;1;0;1;1;1;0;0
+362;Data Scientist;112;116;4.4;SolutionIT, Inc.;0;0;0;0;0;0;0
+363;Data Scientist;112;116;3.2;Perspecta;1;0;1;0;0;0;1
+364;Data Scientist;112;116;4.5;Smith Hanley Associates;1;0;0;0;0;0;0
+365;Scientist - Machine Learning;112;116;3.5;Allen Institute;0;0;0;0;0;0;0
+366;Data Scientist;112;116;4.4;Eliassen Group;1;0;0;0;0;0;0
+367;Data Scientist;112;116;3.1;Bayside Solutions;1;1;0;0;0;1;0
+368;Sr. Data Scientist;112;116;3.5;Evolve Vacation Rental;1;0;0;0;0;0;0
+369;data scientist;112;116;3.8;AgreeYa Solutions;1;1;0;0;0;0;0
+370;data scientist;112;116;3.7;Carolina Power & Light Co;1;1;0;0;0;0;1
+371;Analytics Manager - Data Mart;112;116;3.5;Central California Alliance for Health;0;0;0;0;0;1;0
+372;Data Modeler (Analytical Systems);112;116;3.7;MassMutual;0;1;1;1;0;0;1
+373;Applied AI Scientist / Engineer;112;116;5.0;New Iron Group, Inc.;1;0;0;0;0;0;0
+374;Data Engineer (Analytics, SQL, Python, AWS);112;116;4.0;Travelers;1;0;0;1;1;0;1
+375;Senior Data Analyst - Finance & Platform Analytics;112;116;3.6;Twitch;1;0;0;0;0;1;0
+376;Senior Data Scientist;110;163;4.8;Klaviyo;0;0;0;0;0;0;0
+377;Market Research Data Scientist;110;163;3.8;GutCheck;0;1;0;0;0;0;0
+378;IT Partner Digital Health Technology and Data Science;110;163;3.6;Biogen;0;1;0;0;0;0;0
+379;Data Scientist;110;163;0.0;HireAi;1;1;0;1;0;1;0
+380;Data Scientist;110;163;0.0;HireAi;1;1;0;1;0;1;0
+381;Senior Machine Learning Scientist - Bay Area, CA;110;163;3.3;Tempus Labs;1;0;0;0;1;0;0
+382;Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG;110;163;4.1;Mentor Graphics;1;1;0;0;0;0;0
+383;Senior Clinical Data Scientist Programmer;110;163;3.6;WCG (WIRB-Copernicus Group);0;1;0;0;0;0;0
+384;Data Engineer;110;163;4.5;Kingfisher Systems;1;0;0;0;0;0;0
+385;Computer Vision / Deep Learning Scientist;110;163;3.3;Tempus Labs;0;0;0;0;1;0;0
+386;Data Solutions Engineer - Data Modeler;110;163;3.4;Liberty Mutual Insurance;1;0;0;0;0;0;0
+387;Data Scientist;110;163;4.3;Visionary Integration Professionals;0;1;0;0;0;0;0
+388;Data Scientist (TS/SCI w/ Poly);110;163;3.5;Maxar Technologies;1;0;0;0;0;0;0
+389;Weapons and Sensors Engineer/Scientist;110;163;4.0;Dynetics;1;0;0;0;0;0;0
+390;Applied Computer Scientist;110;163;4.5;Systems & Technology Research;0;0;0;0;0;0;0
+391;Senior Data Analyst;110;163;4.5;Novetta;1;1;0;0;0;0;0
+392;Cloud Data Engineer (Azure);-50;163;3.9;Navy Federal Credit Union;0;0;0;0;0;1;0
+393;Lead Certified Clinical Laboratory Scientist - Saturday - Tuesday, 8:00pm - 6:30am shift;110;163;4.0;Exact Sciences Corporation;0;0;0;0;0;0;0
+394;Sr. Data Analyst;110;163;3.6;Community Behavioral Health;0;1;0;0;0;1;0
+395;Senior Scientist - Toxicologist - Product Integrity (Stewardship);110;163;3.3;Reynolds American;0;1;0;0;0;0;0
+396;Senior Machine Learning Engineer;110;163;5.0;LifeOmic;0;0;0;1;1;0;0
+397;Product Data Scientist - Ads Data Science;124;198;4.1;Twitter;1;0;0;0;0;0;0
+398;Data Scientist;124;198;3.2;Postmates - Corporate HQ;1;0;0;1;0;0;0
+399;Data Scientist;124;198;4.9;Visionist, Inc.;1;0;1;1;0;1;0
+400;Data Scientist;124;198;0.0;Navio;0;0;0;0;1;0;0
+401;Data Scientist;124;198;3.3;Concerto HealthAI;1;0;0;0;0;0;0
+402;Data Scientist;124;198;0.0;Evolvinc;1;1;1;1;1;0;1
+403;Data Scientist;124;198;5.0;PROPRIUS;1;0;1;1;0;1;1
+404;Data Scientist;124;198;3.4;TECHNOCRAFT Solutions;1;0;0;0;0;0;1
+405;Data Scientist;124;198;4.1;Latitude, Inc.;1;0;0;0;0;1;0
+406;Data Scientist;124;198;5.0;Royce Geospatial;1;0;0;0;0;0;1
+407;Data Scientist;124;198;4.2;CyberCoders;1;0;0;0;0;0;0
+408;Data Scientist;124;198;3.7;Booz Allen Hamilton Inc.;1;0;1;0;0;1;1
+409;Data Scientist;124;198;3.8;Burns & McDonnell;1;1;0;0;0;0;0
+410;Data Scientist;124;198;4.8;InvenTech Info;1;0;0;0;0;0;0
+411;Data Scientist;124;198;3.5;Robert Half;1;0;1;1;0;0;0
+412;Analytics - Business Assurance Data Analyst;124;198;4.6;GreatAmerica Financial Services;0;1;0;0;0;1;0
+413;Data Scientist;124;198;4.5;Conflux Systems Inc.;1;1;1;1;1;0;0
+414;Data Scientist;124;198;3.9;Criteo;1;0;1;1;0;0;1
+415;data scientist;124;198;3.4;Voice;1;0;0;0;0;0;0
+416;data scientist;124;198;0.0;Microagility;0;1;0;0;0;0;0
+417;data scientist;124;198;4.1;Coverent;1;1;0;0;0;0;0
+418;data scientist;79;133;3.7;Via Transportation;1;0;0;0;0;1;0
+419;Senior Data Scientist;79;133;3.5;Benson Hill;1;1;0;0;0;0;1
+420;Data Scientist;79;133;4.6;Conch Technologies, Inc;0;0;0;0;0;0;0
+421;Data Scientist;79;133;0.0;Falcon IT & Staffing Solutions;1;1;0;0;0;0;0
+422;Data Scientist;79;133;0.0;Rainmaker Resources, LLC;0;1;0;0;0;0;1
+423;Data Engineer;79;133;4.4;Rocket Lawyer;1;1;1;0;0;0;1
+424;Data Scientist;79;133;3.6;DataLab USA;1;1;0;0;0;1;0
+425;Data Scientist;79;133;3.1;Werner Enterprises Inc;0;0;0;0;0;0;0
+426;Data Scientist;79;133;5.0;PeopleCom;1;0;0;0;0;0;0
+427;Data Scientist - Machine Learning;79;133;5.0;VANTA Partners;1;0;0;1;0;0;0
+428;Data Scientist;79;133;0.0;B4Corp;1;1;0;0;0;0;0
+429;Data Scientist;79;133;0.0;Blue Icy Water, LLC;0;1;0;0;0;0;0
+430;Data Scientist;79;133;3.5;Farmer's Business Network, Inc.;1;1;0;0;0;0;1
+431;Data Scientist;79;133;0.0;Sonde Health;1;0;0;0;1;0;0
+432;Data Scientist;79;133;5.0;Maxiom;1;1;1;0;0;1;0
+433;Data Scientist;79;133;2.7;Change Healthcare;0;1;0;0;1;0;0
+434;Data Scientist;79;133;4.1;DCS Corp;1;1;0;0;0;0;1
+435;Data Scientist;79;133;2.1;Hive (CA);1;0;1;1;0;0;0
+436;Machine Learning Engineer/Scientist;79;133;4.8;Jane Street;0;0;0;0;0;0;0
+437;Data Scientist - Intermediate;69;116;4.5;Envision LLC;1;1;0;0;0;0;0
+438;Principal Data Scientist;69;116;4.0;Autodesk;1;1;1;1;1;0;1
+439;Data Scientist;69;116;3.3;Hackensack Meridian Health;1;0;0;0;0;1;0
+440;Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab;69;116;3.9;Novartis;0;0;0;0;0;0;0
+441;Data Scientist;69;116;3.2;Net2Source Inc.;1;1;1;1;0;0;0
+442;Data Scientist;69;116;3.2;The Trade Desk;1;0;0;1;1;0;1
+443;Data Scientist- Industrial Discrete Sector Industry;69;116;3.7;IBM;1;1;0;0;1;0;0
+444;Data Scientist;69;116;4.4;Knowesis Inc.;1;0;1;0;1;1;0
+445;data scientist;69;116;3.1;MoTek Technologies;1;1;0;0;0;0;0
+446;data scientist;69;116;3.3;The Davey Tree Expert Company;1;1;0;0;0;0;0
+447;data scientist;69;116;3.5;HPOne;1;1;0;0;0;1;0
+448;data scientist;69;116;0.0;Stride Search;1;0;0;0;0;0;0
+449;Machine Learning Engineer;69;116;2.6;Software Engineering Institute;1;0;0;0;0;0;0
+450;Data Scientist;69;116;0.0;Blue Cloak LLC;1;0;1;1;1;1;0
+451;data scientist;69;116;2.7;TBWA\Chiat\Day;1;1;0;0;0;1;0
+452;data scientist;69;116;3.5;ThreeBridge Solutions;1;0;0;0;0;0;0
+453;data scientist;69;116;3.2;Numeric, LLC;1;0;1;1;1;0;1
+454;Data Analyst - Unilever Prestige;69;116;3.8;Dermalogica;1;0;0;0;0;1;0
+455;Data Scientist;69;116;4.2;Centraprise;1;0;0;0;0;0;0
+456;Data Scientist;69;116;4.8;TechProjects;1;1;0;0;0;1;0
+457;Data Scientist;69;116;4.2;DW Simpson;1;1;0;0;0;1;0
+458;Data & Machine Learning Scientist;31;56;3.3;Tempus Labs;1;0;0;0;1;0;0
+459;Data Scientist;31;56;4.0;Grid Dynamics;1;1;0;0;0;1;1
+460;VP, Data Science;31;56;3.9;7Park Data;1;1;0;1;0;0;0
+461;Senior Business Intelligence Analyst;31;56;3.7;Protolabs;0;0;0;0;0;0;0
+462;Data Scientist;31;56;3.9;LinQuest;1;1;0;0;0;1;0
+463;Data Engineer - Kafka;31;56;3.5;Western Digital;1;0;1;1;1;0;0
+464;Data Scientist;31;56;-4.0;Trexquant Investment;1;0;0;0;0;0;0
+465;data scientist;31;56;3.0;Ameritas Life Insurance Corp;0;0;0;0;0;0;0
+466;data scientist;31;56;3.7;Fleetcor;1;1;0;0;0;1;0
+467;data scientist;31;56;4.5;Radiant Digital;1;1;1;1;0;0;0
+468;data scientist;31;56;2.8;Child Care Aware of America;1;1;0;0;1;0;0
+469;data scientist;31;56;4.1;IntelliPro Group Inc.;1;1;1;0;0;0;0
+470;In-Line Inspection Data Analyst;31;56;2.9;Quest Integrity;0;1;0;0;0;0;0
+471;Data Scientist;31;56;4.7;Praxis Engineering;0;0;0;0;1;0;1
+472;Data Scientist;31;56;3.4;USI;1;1;0;0;0;0;0
+473;Data Scientist;31;56;3.9;Apex Systems;0;0;0;0;0;0;0
+474;Data Scientist;31;56;2.9;Pragmatics, Inc.;1;0;1;0;1;0;0
+475;Decision Scientist;31;56;4.5;Johns Hopkins University Applied Physics Laboratory;0;1;0;1;0;0;0
+476;Data Scientist;31;56;4.9;Cambridge Mobile Telematics;1;0;0;1;1;0;0
+477;Data Scientist - TS/SCI FSP or CI Required;31;56;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+478;Data Scientist, Applied Machine Learning - Bay Area;95;119;3.3;Tempus Labs;1;0;0;0;1;0;0
+479;Data Scientist;95;119;3.5;The Knot Worldwide;1;0;0;1;1;0;0
+480;Data Scientist;95;119;3.5;Crossover Health;1;1;0;0;0;1;1
+481;Data Scientist;95;119;4.0;Lorven Technologies Inc;1;0;0;0;0;0;0
+482;Data Analyst;95;119;3.9;Nolij Consulting;1;1;0;0;0;1;0
+483;Data Scientist;95;119;3.4;Dice.com;1;1;0;0;1;0;0
+484;Data Scientist;95;119;3.5;Gap Inc.;1;0;0;1;0;0;1
+485;data scientist;95;119;4.7;Tygart Technology, Inc;1;1;1;0;0;0;1
+486;data scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+487;data scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+488;data scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+489;Data Scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+490;Data Scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+491;Data Scientist;95;119;0.0;Hatch Data Inc;1;0;0;1;1;0;0
+492;Data Scientist;95;119;4.6;Murray Resources;1;1;1;0;0;1;0
+493;Data Scientist;95;119;4.0;New York Technology Partners;1;1;1;1;1;0;0
+494;Data Scientist;95;119;4.0;Two95 International Inc.;1;0;0;0;0;0;0
+495;Data Scientist;95;119;0.0;Sophinea;0;0;0;0;0;0;0
+496;Data Scientist;95;119;4.7;CRS Group;0;0;0;0;0;0;0
+497;Data Scientist;95;119;3.5;Blackstone Talent Group;1;0;0;0;1;0;0
+498;Data Scientist - TS/SCI Required;95;119;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+499;Senior Principal Data Scientist (Python/R);212;331;4.1;Roche;1;1;1;1;0;0;1
+500;Real World Science, Data Scientist;212;331;4.0;AstraZeneca;1;0;1;0;0;0;0
+501;Data Scientist;212;331;3.6;Creative Circle;1;0;0;0;0;0;0
+502;Data Scientist(s)/Machine Learning Engineer;212;331;5.0;Blue Horizon Tek Solutions;1;1;0;0;0;0;0
+503;Senior Data Scientist;212000;331000;3.5;Maxar Technologies;1;1;0;0;0;0;1
+504;Data Scientist;212;331;4.7;Sharpedge Solutions Inc;1;1;1;1;1;0;0
+505;Data Scientist;212;331;3.5;Maxar Technologies;1;0;1;1;0;1;0
+506;Data Scientist;212;331;3.6;Alaka`ina Foundation Family of Companies;1;0;0;0;0;0;0
+507;ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR;212;331;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+508;Data Scientist;212;331;2.7;Hexagon US Federal;0;1;0;0;1;0;0
+509;Data Science Software Engineer;212;331;4.8;Klaviyo;1;0;0;0;0;0;0
+510;Scientist / Group Lead, Cancer Biology;212;331;0.0;Monte Rosa Therapeutics;0;1;0;0;0;0;0
+511;Data Scientist;212;331;4.0;Comtech Global Inc;1;0;1;1;1;1;0
+512;Data Scientist;212;331;3.8;Aveshka, Inc.;1;1;0;1;0;0;1
+513;Manager, Field Application Scientist, Southeast;212;331;4.2;10x Genomics;0;1;0;0;0;0;0
+514;COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING;212;331;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+515;Data Scientist;212;331;0.0;CompuForce;0;1;1;1;1;0;1
+516;Data Scientist;212;331;4.5;Smith Hanley Associates;1;0;0;0;0;0;0
+517;Scientist - Machine Learning;212;331;3.5;Allen Institute;0;0;0;0;0;0;0
+518;Data Scientist;212;331;2.7;1-800-Flowers;1;1;0;0;0;1;0
+519;Data Scientist;212;331;3.5;Aptive;1;1;0;0;0;1;0
+520;Data Scientist - Image and Video Analytics;66;112;4.9;The Mom Project;1;0;1;1;1;0;0
+521;Data Scientist;66;112;3.6;Powertek;0;0;0;0;0;0;0
+522;Data Scientist;66;112;5.0;JCD Staffing;1;1;0;0;0;1;0
+523;Data Scientist;66;112;3.1;Bayside Solutions;1;1;0;0;0;1;0
+524;Senior Data Engineer;66;112;3.9;Thumbtack;1;1;0;0;1;0;0
+525;Data Scientist;66;112;3.4;MILVETS Systems Technology, Inc.;0;1;0;0;0;0;0
+526;Machine Learning Scientist / Engineer;66;112;4.1;Apple;0;0;0;0;0;0;0
+527;Data Scientist;66;112;4.1;Kforce;0;0;0;0;0;0;0
+528;Sr. Data Scientist;66;112;3.5;Evolve Vacation Rental;1;0;0;0;0;0;0
+529;Intelligence Data Analyst, Senior;66;112;4.3;The Buffalo Group;1;0;0;0;0;0;0
+530;Data Science Analyst;66;112;4.4;OppLoans;1;0;0;0;0;0;0
+531;Data Scientist;66;112;3.8;AgreeYa Solutions;1;1;0;0;0;0;0
+532;Data Scientist;66;112;3.7;Carolina Power & Light Co;1;1;0;0;0;0;1
+533;COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - TRANSPORTATION TECHNOLOGY;66;112;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+534;Data Scientist;66;112;3.9;Brillient;1;1;0;0;0;0;1
+535;Data Modeler (Analytical Systems);66;112;3.7;MassMutual;0;1;1;1;0;0;1
+536;Data Scientist;66;112;2.9;Xator Corporation;0;0;0;0;0;0;0
+537;Data Scientist;66;112;4.6;HAN IT Staffing Inc.;1;1;0;0;0;0;1
+538;Data Scientist;66;112;3.4;Infinitive Inc;1;1;1;1;1;0;1
+539;Data Engineer (Analytics, SQL, Python, AWS);66;112;4.0;Travelers;1;0;0;1;1;0;1
+540;Data Scientist 3 (718);128;201;3.3;Amyris;1;0;0;0;1;0;0
+541;Data Scientist;128;201;4.3;Lightspeed Systems;1;0;0;1;1;0;0
+542;Senior Data Scientist;128;201;3.9;Thumbtack;1;1;1;1;0;0;0
+543;Senior Data Analyst - Finance & Platform Analytics;128;201;3.6;Twitch;1;0;0;0;0;1;0
+544;Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team);128;201;4.7;New Relic;1;0;0;0;0;0;0
+545;IT Partner Digital Health Technology and Data Science;128;201;3.6;Biogen;0;1;0;0;0;0;0
+546;Data Scientist;128;201;0.0;HireAi;1;1;0;1;0;1;0
+547;Senior Machine Learning Scientist - Bay Area, CA;128;201;3.3;Tempus Labs;1;0;0;0;1;0;0
+548;Data Scientist;128;201;3.3;ICW Group;1;0;0;0;0;0;0
+549;Clinical Data Analyst;128;201;3.8;NYSTEC;1;0;0;0;0;0;0
+550;Data Scientist;128;201;4.5;E3 Federal Solutions;0;0;1;0;0;0;1
+551;Data Engineer;128;201;4.5;Kingfisher Systems;1;0;0;0;0;0;0
+552;Data Scientist Technical Specialist;128;201;3.4;Peraton;1;0;1;1;0;0;1
+553;Senior Data Scientist;128;201;3.1;Group O;1;0;1;0;0;0;0
+554;Data Science Manager;128;201;4.0;Autodesk;1;1;1;1;0;0;1
+555;Computer Vision / Deep Learning Scientist;128;201;3.3;Tempus Labs;0;0;0;0;1;0;0
+556;Big Data Engineer;128;201;4.1;CaptiveAire;1;0;0;1;0;0;0
+557;Data Architect;128;201;4.2;LSQ;1;0;1;1;1;0;1
+558;Machine Learning Engineer;128;201;3.9;Temboo;0;0;1;0;0;0;0
+559;Data Scientist;128;201;0.0;Kibo;1;0;0;0;0;0;0
+560;Aviation AI/ML Data Scientist;128;201;3.3;MITRE;1;1;1;1;0;1;1
+561;Data Scientist;138;158;3.9;Mars;1;0;0;1;1;0;0
+562;Data Scientist / Applied Mathematician;138;158;4.5;Fullpower Technologies, Inc.;1;0;0;0;1;0;1
+563;Machine Learning Engineer, Sr.;138;158;4.2;AeroVironment;1;1;0;0;1;0;1
+564;Data Scientist (TS/SCI w/ Poly);138;158;3.5;Maxar Technologies;1;0;0;0;0;0;0
+565;Weapons and Sensors Engineer/Scientist;138;158;4.0;Dynetics;1;0;0;0;0;0;0
+566;Applied Computer Scientist;138;158;4.5;Systems & Technology Research;0;0;0;0;0;0;0
+567;Senior Data Analyst;138;158;4.5;Novetta;1;1;0;0;0;0;0
+568;Information Systems Engineering Specialist (Engineering Scientist);138;158;3.8;Applied Research Laboratories;1;0;0;0;1;0;0
+569;Cloud Data Engineer (Azure);138;158;3.9;Navy Federal Credit Union;0;0;0;0;0;1;0
+570;Scientist/Research Associate-Metabolic Engineering;138;158;2.0;Conagen;0;0;0;0;0;0;0
+571;Vice President, Biometrics and Clinical Data Management;138;158;4.8;Alector;0;1;0;0;1;0;0
+572;Enterprise Data Analyst (Enterprise Portfolio Management Office);138;158;3.9;Navy Federal Credit Union;0;0;0;1;0;1;0
+573;Senior Scientist - Toxicologist - Product Integrity (Stewardship);138;158;3.3;Reynolds American;0;1;0;0;0;0;0
+574;Lead Data Scientist – Network Analysis and Control;138;158;3.3;MITRE;1;1;1;1;1;0;1
+575;Senior Machine Learning Engineer;138;158;5.0;LifeOmic;0;0;0;1;1;0;0
+576;Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics;138;158;4.4;Homology Medicines, Inc.;0;0;0;0;0;0;0
+577;Data Engineer;138;158;3.4;Spectrum Communications and Consulting;1;0;0;0;0;0;0
+578;Developer III - Data Science;138;158;3.3;Inland Empire Health Plan;0;1;0;0;0;1;0
+579;Senior Data Engineer;138;158;2.9;Affinity Solutions;1;0;1;1;0;1;0
+580;Hydrogen/Tritium Materials Scientist (Experienced);138;158;3.8;Sandia National Laboratories;0;0;0;0;0;0;0
+581;Data Engineer;138;158;3.5;Maxar Technologies;1;0;0;0;1;0;0
+582;Patient Safety- Associate Data Scientist;80;132;4.0;AstraZeneca;1;1;0;0;0;0;0
+583;Senior Data Scientist;80;132;4.0;Autodesk;1;0;1;1;0;0;1
+584;Data Scientist;80;132;3.4;USI;1;1;0;0;0;0;0
+585;Data Scientist;80;132;3.9;GSK;1;0;1;0;1;1;0
+586;Data Scientist;80;132;3.8;CIA;0;0;0;0;0;0;0
+587;Data Scientist;80;132;4.5;Maven Wave Partners;1;1;1;0;1;1;0
+588;Data Scientist;80;132;4.3;Ovative Group;1;0;0;0;0;0;0
+589;Data Scientist;80;132;3.6;Kognetics;1;1;0;0;0;0;0
+590;Data Scientist;80;132;2.9;Envision Healthcare;1;1;1;1;1;1;1
+591;Data Scientist;80;132;2.9;Pragmatics, Inc.;1;0;1;0;1;0;0
+592;Decision Scientist;80;132;4.5;Johns Hopkins University Applied Physics Laboratory;0;1;0;1;0;0;0
+593;Data Scientist - TS/SCI FSP or CI Required;80;132;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+594;Data Scientist;80;132;3.5;Crossover Health;1;1;0;0;0;1;1
+595;Data Scientist;80;132;4.0;Lorven Technologies Inc;1;0;0;0;0;0;0
+596;Data Scientist;80;132;4.4;Meridian Knowledge Solutions;0;1;0;0;0;0;0
+597;Data Scientist;80;132;4.2;UST Global;1;1;1;1;1;0;1
+598;Data Scientist;80;132;3.2;IMG Systems;1;0;0;0;0;0;0
+599;Data Scientist;80;132;3.4;Trident Systems Inc;0;0;0;0;0;0;0
+600;Data Scientist;80;132;4.7;Tygart Technology, Inc;1;1;1;0;0;0;1
+601;Senior Data Scientist;87;141;4.2;ManTech;1;0;1;1;0;1;1
+602;Data Scientist;87;141;0.0;GrainBridge, LLC;1;1;0;0;1;0;1
+603;Data Scientist;87;141;3.2;First Health Group;0;0;0;0;0;0;0
+604;Data Scientist;87;141;0.0;Sprezzatura Management Consulting;0;1;0;0;0;0;0
+605;Data Scientist;87;141;2.8;Progress Rail, A Caterpillar Company;1;1;0;0;1;0;0
+606;Data Scientist;87;141;4.2;UST Global;1;1;1;1;1;0;1
+607;Data Scientist;87;141;4.5;Axiologic Solutions;0;0;0;0;1;0;0
+608;Data Scientist;87;141;3.0;Indigo Slate;1;0;0;1;0;0;0
+609;Data Scientist;87;141;3.3;Cubic;1;1;1;0;0;0;0
+610;Data Scientist;87;141;4.0;Advanced Bio-Logic Solutions Corp;1;0;0;0;0;0;0
+611;Data Engineer;87;141;3.5;Alignment Healthcare;0;1;1;1;1;1;0
+612;Data Scientist;87;141;3.5;WGSN;1;1;1;1;0;1;0
+613;Data Scientist;87;141;3.6;ISYS Technologies, Inc.;1;0;1;1;0;1;0
+614;Data Scientist;87;141;3.0;TransVoyant;0;0;1;1;0;0;0
+615;Data Scientist/Data Analytics Practitioner;87;141;4.0;Noblis;1;0;0;0;0;0;0
+616;Data Scientist;87;141;4.6;Murray Resources;1;1;1;0;0;1;0
+617;Data Scientist;87;141;4.3;Geotab;1;1;0;1;0;0;1
+618;Data Scientist;87;141;4.7;CRS Group;0;0;0;0;0;0;0
+619;Data Scientist;87;141;3.7;EGlobalTech;1;1;0;0;1;0;0
+620;Data Scientist, Kinship - NYC/Portland;92;155;3.9;Mars;1;0;0;1;0;0;0
+621;Data Scientist;92;155;3.0;Central Business Solutions, Inc;1;1;1;1;1;0;0
+622;Data Scientist;92;155;2.5;KeHE Distributors;1;1;1;1;1;1;1
+623;Data Scientist;92;155;3.5;Blackstone Talent Group;1;0;0;0;1;0;0
+624;Data Scientist - TS/SCI Required;92;155;5.0;Phoenix Operations Group;1;0;0;1;0;0;1
+625;Data Scientist;92;155;0.0;Sophinea;0;0;0;0;0;0;0
+626;Senior Data Scientist;92;155;3.5;Maxar Technologies;1;1;0;0;0;0;1
+627;Data Scientist;92;155;3.0;Moxie Software;1;0;1;1;0;0;0
+628;Data Scientist(s)/Machine Learning Engineer;92;155;5.0;Blue Horizon Tek Solutions;1;1;0;0;0;0;0
+629;Data Scientist;92;155;4.7;Unicom Technologies INC;1;1;1;1;1;0;0
+630;Data Engineer;92;155;3.3;Americo Life;1;1;1;1;1;0;0
+631;Data Scientist;92;155;3.3;Tokio Marine HCC;1;0;0;0;0;0;0
+632;Data Scientist;92;155;3.5;CACI International;0;1;0;0;0;0;0
+633;AI/ML - Machine Learning Scientist, Siri Understanding;92;155;4.1;Apple;1;0;0;0;0;0;1
+634;Data Scientist;92;155;3.5;Maxar Technologies;1;0;1;1;0;1;0
+635;ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR;92;155;3.9;Southwest Research Institute;1;1;0;0;0;0;0
+636;Data Scientist;92;155;4.7;Compass Consulting Group;1;0;0;0;0;0;0
+637;Data Science Software Engineer;92;155;4.8;Klaviyo;1;0;0;0;0;0;0
+638;Scientist / Group Lead, Cancer Biology;92;155;0.0;Monte Rosa Therapeutics;0;1;0;0;0;0;0
+639;AI Ops Data Scientist;92;155;4.0;AstraZeneca;1;0;1;1;1;0;0
+640;Senior Data Scientist;105;167;3.8;GutCheck;0;0;0;0;0;0;0
+641;Sr. ML/Data Scientist - AI/NLP/Chatbot;105;167;3.8;Juniper Networks;1;1;0;1;1;0;0
+642;Data Scientist;105;167;2.7;Hexagon US Federal;0;1;0;0;1;0;0
+643;Data Scientist;105;167;4.0;Comtech Global Inc;1;0;1;1;1;1;0
+644;Data Scientist;105;167;0.0;Berico Technologies;0;1;0;0;1;0;0
+645;Data Scientist;105;167;0.0;Kehe Food Distributors;1;1;1;1;1;1;1
+646;Data Scientist;105;167;3.8;Aveshka, Inc.;1;1;0;1;0;0;1
+647;Data Scientist;105;167;3.2;Perspecta;1;0;1;0;0;0;1
+648;Data Scientist;105;167;0.0;Pactera Edge;1;0;0;0;0;0;0
+649;Data Scientist;105;167;3.6;Qurate Retail Group;1;1;0;0;0;1;0
+650;Data Scientist;105;167;4.4;SolutionIT, Inc.;0;0;0;0;0;0;0
+651;Data Scientist;105;167;4.1;A-Line Staffing Solutions;1;0;1;1;0;0;1
+652;Data Scientist;105;167;0.0;Clear Ridge Defense;1;0;1;0;0;0;0
+653;Data Scientist;105;167;3.8;Criterion Systems, Inc.;1;1;0;0;0;0;0
+654;Data Scientist;105;167;4.0;Foundation Medicine;1;0;0;0;0;0;0
+655;Data Scientist;105;167;3.6;TRANZACT;1;1;1;0;0;1;1
+656;Data Scientist;105;167;0.0;JKGT;0;0;0;0;0;0;0
+657;Data Scientist;105;167;0.0;AccessHope;1;1;1;0;0;1;0
+658;Data Scientist;105;167;5.0;ChaTeck Incorporated;1;0;1;1;0;0;1
+659;Data Scientist;105;167;2.7;1-800-Flowers;1;1;0;0;0;1;0
